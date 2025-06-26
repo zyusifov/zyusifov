@@ -6,7 +6,7 @@ I'm a Software Engineer passionate about building practical, secure, and scalabl
 
 ## 💼 Currently
 
-I'm working at [MigrationPro.io](https://migrationpro.io), where we develop robust data migration solutions for e-commerce platforms. My role involves backend/API development, infrastructure improvements, and introducing smart automation across internal tools.
+I'm working at [MigrationPro](https://migrationpro.io), where we develop robust data migration solutions for e-commerce platforms. My role involves backend/API development, infrastructure improvements, and introducing smart automation across internal tools.
 
 ---
 
